@@ -2,7 +2,7 @@ package com.pluralsight.fruit;
 
 public class Banana implements IFruit {
 
-    private static final String NAME = "Banana master";
+    private static final String NAME = "Banana conflict fix";
     private static final int ROLL_MULTIPLIER = 0;
 
     public String getName() {
