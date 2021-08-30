@@ -1,5 +1,4 @@
 package com.pluralsight.fruit;
-import  java.*;
 
 public interface IFruit {
 
